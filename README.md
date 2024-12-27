@@ -2,7 +2,7 @@
 
 <p align="center">
 This Repository contains my CV.<br>
-Both of the two versions work. <br>
+Both versions work. <br>
 Feel free to contact me.<br>
 Also, welcome to visit my personal website 
 <a href="http://www.hujinzhi.com">www.hujinzhi.com</a><br>
